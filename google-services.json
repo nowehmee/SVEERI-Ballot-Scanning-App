@@ -1,0 +1,34 @@
+{
+  "project_info": {
+    "project_number": "17631986476",
+    "project_id": "sveeri-e82ad",
+    "storage_bucket": "sveeri-e82ad.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:17631986476:android:36069dab7ab01adedfa289",
+        "android_client_info": {
+          "package_name": "com.example.sveeri"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "17631986476-8btvlj6kqkqkqkqkqkqkqkqkqkqkqkqk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVbm7jOv3F0FLT9rreOvLAd3AXuhjLTOM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
